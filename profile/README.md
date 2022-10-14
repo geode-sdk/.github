@@ -4,7 +4,7 @@
 
 ## Get Started with Geode
 
-Get the [Geode Installer](https://github.com/geode-sdk/installer/releases/latest) to install the Geode mod loader & SDK on your computer.
+See the [Installation](https://geode-sdk.github.io/docs/#/docs/info/installation) page on the docs.
 
 ## Documentation
 
