@@ -14,5 +14,4 @@ See the [Installation](https://geode-sdk.github.io/docs/#/docs/info/installation
 
  * **Geode** - The framework, featuring the loader & headers for Geode, Geometry Dash, Cocos2d etc.
  * **Docs** - Documentation
- * **CLI** - The Geode CLI that contains utilities for developers
- * **Installer** - Friendly GUI installer for Geode
+ * **CLI** - The Geode CLI that contains utilities for developers
