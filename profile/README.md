@@ -4,14 +4,15 @@
 
 ## Get Started with Geode
 
-See the [Installation](https://geode-sdk.github.io/docs/#/docs/info/installation) page on the docs.
+See the [Geode website](https://geode-sdk.org) for installing the mod loader to GD, and the [Getting Started](https://docs.geode-sdk.org/getting-started) page on the docs for installing the SDK.
 
 ## Documentation
 
-[Link to documentation](https://geode-sdk.github.io/docs)
+[Link to documentation](https://docs.geode-sdk.org)
 
 ## Repositories
 
  * **Geode** - The framework, featuring the loader & headers for Geode, Geometry Dash, Cocos2d etc.
  * **Docs** - Documentation
- * **CLI** - The Geode CLI that contains utilities for developers
+ * **CLI** - The Geode CLI that contains utilities for developers
+
